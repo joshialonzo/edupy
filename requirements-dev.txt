@@ -1,0 +1,7 @@
+flake8==3.7.8
+hypothesis==4.33.1
+isort
+pytest>=5.2.0
+pyyaml==5.1.2
+requests==2.22.0
+ruff
